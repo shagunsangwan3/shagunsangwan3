@@ -36,6 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shagunsangwan3&show_icons=true&locale=en" alt="shagunsangwan3" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shagunsangwan3&" alt="shagunsangwan3" /></p>
-
 
